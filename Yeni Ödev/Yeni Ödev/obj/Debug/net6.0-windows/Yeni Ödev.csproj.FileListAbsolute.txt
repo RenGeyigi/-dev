@@ -1,0 +1,16 @@
+C:\Users\erens\source\repos\Yeni Ödev\Yeni Ödev\bin\Debug\net6.0-windows\Yeni Ödev.exe
+C:\Users\erens\source\repos\Yeni Ödev\Yeni Ödev\bin\Debug\net6.0-windows\Yeni Ödev.deps.json
+C:\Users\erens\source\repos\Yeni Ödev\Yeni Ödev\bin\Debug\net6.0-windows\Yeni Ödev.runtimeconfig.json
+C:\Users\erens\source\repos\Yeni Ödev\Yeni Ödev\bin\Debug\net6.0-windows\Yeni Ödev.dll
+C:\Users\erens\source\repos\Yeni Ödev\Yeni Ödev\bin\Debug\net6.0-windows\Yeni Ödev.pdb
+C:\Users\erens\source\repos\Yeni Ödev\Yeni Ödev\obj\Debug\net6.0-windows\Yeni_Ödev.Form1.resources
+C:\Users\erens\source\repos\Yeni Ödev\Yeni Ödev\obj\Debug\net6.0-windows\Yeni Ödev.csproj.GenerateResource.cache
+C:\Users\erens\source\repos\Yeni Ödev\Yeni Ödev\obj\Debug\net6.0-windows\Yeni Ödev.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\erens\source\repos\Yeni Ödev\Yeni Ödev\obj\Debug\net6.0-windows\Yeni Ödev.AssemblyInfoInputs.cache
+C:\Users\erens\source\repos\Yeni Ödev\Yeni Ödev\obj\Debug\net6.0-windows\Yeni Ödev.AssemblyInfo.cs
+C:\Users\erens\source\repos\Yeni Ödev\Yeni Ödev\obj\Debug\net6.0-windows\Yeni Ödev.csproj.CoreCompileInputs.cache
+C:\Users\erens\source\repos\Yeni Ödev\Yeni Ödev\obj\Debug\net6.0-windows\Yeni Ödev.dll
+C:\Users\erens\source\repos\Yeni Ödev\Yeni Ödev\obj\Debug\net6.0-windows\refint\Yeni Ödev.dll
+C:\Users\erens\source\repos\Yeni Ödev\Yeni Ödev\obj\Debug\net6.0-windows\Yeni Ödev.pdb
+C:\Users\erens\source\repos\Yeni Ödev\Yeni Ödev\obj\Debug\net6.0-windows\Yeni Ödev.genruntimeconfig.cache
+C:\Users\erens\source\repos\Yeni Ödev\Yeni Ödev\obj\Debug\net6.0-windows\ref\Yeni Ödev.dll
